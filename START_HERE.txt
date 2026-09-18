@@ -1,0 +1,1 @@
+Open client/index.html for the visual demo. For real multiplayer, follow README.md.
